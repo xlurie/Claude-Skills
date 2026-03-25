@@ -1,6 +1,11 @@
 # Claude Skills
 
-A collection of custom skills for [Claude Code](https://docs.anthropic.com/en/docs/claude-code).
+A collection of custom skills for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). Clone the repo and copy any skill to your Claude Code skills folder to use it.
+
+```bash
+git clone https://github.com/xlurie/Claude-Skills.git
+cp -r Claude-Skills/skills/big-picture-review ~/.claude/skills/big-picture-review
+```
 
 ## Skills
 
