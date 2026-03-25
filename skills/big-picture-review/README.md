@@ -2,6 +2,13 @@
 
 Progressive depth-first adversarial review of plans, architecture, and designs.
 
+## Quick Install
+
+```bash
+git clone https://github.com/xlurie/Claude-Skills.git
+cp -r Claude-Skills/skills/big-picture-review ~/.claude/skills/big-picture-review
+```
+
 ## What It Does
 
 BPR challenges your thinking through structured depth levels:
