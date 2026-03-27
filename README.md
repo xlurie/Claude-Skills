@@ -11,7 +11,7 @@ cp -r Claude-Skills/skills/big-picture-review ~/.claude/skills/big-picture-revie
 
 | Skill | Description |
 |-------|-------------|
-| [Big Picture Review](skills/big-picture-review/) | Progressive depth-first adversarial review of plans, architecture, and designs. Anti-drift mechanisms, gate validation, persistent across sessions. |
+| [Big Picture Review](skills/big-picture-review/) v2.0 | Progressive depth-first adversarial review of plans, architecture, and designs. Anti-drift mechanisms (11 total, 3 tiers), gate validation, research-backed critiques, lite mode, persistent across sessions. EN/RU. |
 
 ## Installation
 

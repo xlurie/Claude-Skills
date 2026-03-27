@@ -2,10 +2,12 @@
 
 ## Installation
 
-Copy these 3 files to the user's Claude Code skills directory:
+Copy these 5 files to the user's Claude Code skills directory:
 
 ```
 SKILL.md
+bpr-character.md
+bpr-full.md
 bpr-gate.md
 bpr-anti-drift.md
 ```
@@ -20,9 +22,11 @@ Destination: `~/.claude/skills/big-picture-review/` (personal) or `.claude/skill
 
 ## After Installing
 
-Suggest the user test with: `/big-picture-review test topic`
+Suggest the user test with:
+- Full mode: `/big-picture-review test topic`
+- Lite mode: `/big-picture-review lite test topic`
 
 ## Do Not
 
-- Do not modify SKILL.md, bpr-gate.md, or bpr-anti-drift.md after copying
+- Do not modify any of the 5 skill files after copying
 - Do not install README.md or AGENTS.md — they are documentation only
